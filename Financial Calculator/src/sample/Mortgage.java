@@ -161,7 +161,7 @@ public class Mortgage {
         backButton.setLayoutX(680);
         backButton.setLayoutY(530);
         backButton.setStyle("-fx-background-color: royalblue;"+"-fx-border-width:1;"+"-fx-border-color: white;"+"-fx-font: 15px Bahnschrift;"+"-fx-font-weight: bold;"+"-fx-text-fill:white;");
-        Image img1 = new Image("file:icon.png");
+        Image img1 = new Image("file:Financial Calculator/images/icon.png");
         ImageView view = new ImageView(img1);
         view.setFitHeight(30);
         view.setPreserveRatio(true);
@@ -185,7 +185,7 @@ public class Mortgage {
         help.setLayoutX(190);
         help.setLayoutY(312);
         help.setStyle("-fx-background-color: royalblue;"+"-fx-border-width:1;"+"-fx-border-color: white;"+"-fx-font: 15px Bahnschrift;"+"-fx-font-weight: bold;"+"-fx-text-fill:white;");
-        Image img2 = new Image("file:help.png");
+        Image img2 = new Image("file:Financial Calculator/images/help.png");
         ImageView view1 = new ImageView(img2);
         view1.setFitHeight(30);
         view1.setPreserveRatio(true);
@@ -202,7 +202,7 @@ public class Mortgage {
 
         //------------------Adding background image-----------------------------//
 
-        Image image = new Image("file:image6.jpg");
+        Image image = new Image("file:Financial Calculator/images/image6.jpg");
         ImageView img = new ImageView(image);
         img.setFitHeight(600);
         img.setFitWidth(800);
@@ -331,7 +331,7 @@ public class Mortgage {
         backBtn.setLayoutX(500);
         backBtn.setLayoutY(320);
         backBtn.setStyle("-fx-background-color: darkslategrey;"+"-fx-border-width:3;"+"-fx-border-color: lightskyblue;"+"-fx-font: 15px Bahnschrift;"+"-fx-font-weight: bold;"+"-fx-text-fill:white;");
-        Image imgI = new Image("file:backspace.jpg");
+        Image imgI = new Image("file:Financial Calculator/images/backspace.jpg");
         ImageView view2 = new ImageView(imgI);
         view2.setFitHeight(30);
         view2.setPreserveRatio(true);

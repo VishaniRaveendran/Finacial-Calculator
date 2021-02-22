@@ -27,7 +27,7 @@ public class Help{
 
         //------------------Adding background image----------------------//
 
-        Image image = new Image("file:image4.jpg");
+        Image image = new Image("file:Finacial Calculator/images/image4.jpg");
         ImageView img = new ImageView(image);
         img.setFitHeight(600);
         img.setFitWidth(800);
@@ -36,7 +36,7 @@ public class Help{
 
         //--------------------Adding explanation image---------------//
 
-        Image image1 = new Image("file:savings.png");
+        Image image1 = new Image("file:Financial Calculator/images/savings.png");
         ImageView img1 = new ImageView(image1);
         img1.setFitHeight(500);
         img1.setFitWidth(750);
@@ -79,7 +79,7 @@ public class Help{
 
         //------------------Adding image background----------------------//
 
-        Image image = new Image("file:image4.jpg");
+        Image image = new Image("file:Financial Calculator/images/image4.jpg");
         ImageView img = new ImageView(image);
         img.setFitHeight(600);
         img.setFitWidth(800);

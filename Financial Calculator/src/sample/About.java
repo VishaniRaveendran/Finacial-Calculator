@@ -121,7 +121,7 @@ public class About {
 
         //--------------Addig image icon to Back Button------------------//
 
-        Image img1 = new Image("file:icon.png");
+        Image img1 = new Image("file:Financial Calculator/images/icon.png");
         ImageView view = new ImageView(img1);
         view.setFitHeight(30);
         view.setPreserveRatio(true);
@@ -139,7 +139,7 @@ public class About {
 
         //------------------Adding background image-----------------------------//
 
-        Image image = new Image("file:image4.jpg");
+        Image image = new Image("file:Financial Calculator/images/image4.jpg");
         ImageView img = new ImageView(image);
         img.setFitHeight(600);
         img.setFitWidth(800);

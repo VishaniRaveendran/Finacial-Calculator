@@ -105,7 +105,7 @@ public class Main extends Application {
 
         //------------------Image-----------------------------//
 
-        Image image = new Image("file:image9.jpg");
+        Image image = new Image("file:Financial Calculator/images/image9.jpg");
         ImageView img = new ImageView(image);
         img.setFitHeight(600);
         img.setFitWidth(800);
@@ -120,7 +120,7 @@ public class Main extends Application {
         backBtn.setLayoutX(320);
         backBtn.setLayoutY(360);
         backBtn.setStyle("-fx-background-color:midnightblue;" + "-fx-text-fill:whitesmoke;" + "-fx-font-size: 20;" + "-fx-border-color: white;" + "-fx-pref-height: 40;" + "-fx-pref-width: 150;");
-        Image imgI = new Image("file:icon.png");
+        Image imgI = new Image("file:Financial Calculator/images/icon.png");
         ImageView view = new ImageView(imgI);
         view.setFitHeight(30);
         view.setPreserveRatio(true);
@@ -220,7 +220,7 @@ public class Main extends Application {
 
         //------------------Adding background image-----------------------------//
 
-        Image image1 = new Image("file:image9.jpg");
+        Image image1 = new Image("file:Financial Calculator/images/image9.jpg");
         ImageView img1 = new ImageView(image1);
         img1.setFitHeight(600);
         img1.setFitWidth(800);
